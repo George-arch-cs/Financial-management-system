@@ -1,3 +1,7 @@
+#Financial Management System v3 improve ui but not alot and added category such 
+# as food rent transport and persona; spending and able so that information using pie chart using matplotlib 
+
+
 import tkinter as tk
 from tkinter import ttk, messagebox
 import matplotlib.pyplot as plt
